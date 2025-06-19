@@ -9,26 +9,18 @@ Our Movie Recommender System, built using Python and Natural Language Processing
 ## Sample Application Screenshots
 
 
-/Users/maruthichethan/Downloads/WhatsApp Image 2025-06-19 at 22.34.38.jpeg
-/Users/maruthichethan/Downloads/WhatsApp Image 2025-06-19 at 22.34.39 (1).jpeg
+![WhatsApp Image 2025-06-19 at 22 34 38](https://github.com/user-attachments/assets/ddc50596-c1aa-47bf-af02-6c9f8c2ad658)
+
+![WhatsApp Image 2025-06-19 at 22 34 39 (1)](https://github.com/user-attachments/assets/b7e77179-3566-4a75-8cee-4b312fd76972)
+
 
 
 **Description Page:** Explore essential movie details and information about the cast.
 
 
-/Users/maruthichethan/Downloads/WhatsApp Image 2025-06-19 at 22.34.39 (2).jpeg
-/Users/maruthichethan/Downloads/WhatsApp Image 2025-06-19 at 22.34.39.jpeg
+![WhatsApp Image 2025-06-19 at 22 34 39 (2)](https://github.com/user-attachments/assets/32824bc7-2156-41ca-8803-35ae6eeda5df)
 
-
-**Check All Movies Page:** Navigate between pages with ease using buttons or the slider.
-
-
-![Sample Image 5](https://github.com/AnupamMittal-21/Movie-Recommender-System/assets/96871662/02473070-91cf-45a0-8016-eee8b70ee2ae)
-
-
-## Watch the Demo
-
-
+![WhatsApp Image 2025-06-19 at 22 34 39](https://github.com/user-attachments/assets/1580210a-1bb4-4047-8e47-901b1e6e217d)
 
 
 
